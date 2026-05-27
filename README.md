@@ -104,8 +104,6 @@ Built a tool to scan and report network vulnerabilities on web dashboard.
 
 🔗 Email: k.abhaykushwah@outlook.com  
 
----
-
-# 📫 Contact
+# 📫 Connect
 
 🔗 LinkedIn: https://linkedin.com/in/abhaykushwah  
