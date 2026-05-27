@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah/main/src/wave.gif" width="40"> I'm Abhay Kushwah</h1>
-<h3 align="center">Cybersecurity Enthusiast | Network Security | Vulnerability Assessment | Linux</h3>
+<h3 align="center">Cybersecurity Enthusiast | Cloud Security | Linux</h3>
 
 <p align="center">
 Passionate about cybersecurity, vulnerability research, and building security labs.
@@ -66,7 +66,7 @@ Created a personal lab using Kali Linux and Windows to practice:
 <img src="https://skillicons.dev/icons?i=linux,windows,python,bash,mysql,git" />
 </p>
 
-Security Tools:
+Security Tools: (Will update more soon)
 
 • Nmap  
 • Wireshark  
@@ -94,9 +94,9 @@ Built a tool to scan and report network vulnerabilities on web dashboard.
 
 # 🎯 Current Focus
 
-• Vulnerability Management  
-• Security Monitoring  
-• Linux System Security  
+• Cloud Security 
+• Identity and Access Management (IAM)
+• Threat detection
 
 ---
 
