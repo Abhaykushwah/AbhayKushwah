@@ -94,9 +94,9 @@ Built a tool to scan and report network vulnerabilities on web dashboard.
 
 # 🎯 Current Focus
 
-• Cloud Security 
-• Identity and Access Management (IAM)
-• Threat detection
+• Cloud Security  
+• Identity and Access Management (IAM)  
+• Threat detection  
 
 ---
 
